@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    background-image: url(final\ img.webp);
+    text-align: center;
+    height: auto;
+}
+.container{
+    background-color: rgb(227, 217, 217);
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;  
+}
+#counter{
+    align-self: center;
+    font-size: bold;
+}
+#increment-btn{
+    border: 2px solid black;
+    background-color:rgb(4, 46, 173);
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+    font-weight: bold;
+    cursor:grabbing;
+    
+}
+#save-btn{
+    border: 2px solid black;
+    background-color:rgb(9, 207, 23);
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+    width: 90px;
+    font-weight: bold;
+    cursor:grabbing;
+}
